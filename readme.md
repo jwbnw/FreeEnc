@@ -1,4 +1,4 @@
-Project is still WIP. Will update this soon.
+Project is still early WIP (playing around with different stuff). Will update this soon when I have some more time to clean this project up and give it the love it needs.. It does work for file level encryption (cli is a nightmare..but it works)
 
 
 If you're working on this and want Test Coverage Reports
