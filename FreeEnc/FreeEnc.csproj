@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<OutputType>Exe</OutputType>
+		<TargetFramework>netcoreapp5.0</TargetFramework>
+	</PropertyGroup>
+
+<ItemGroup>
+    <AssemblyAttribute Include="System.Runtime.CompilerServices.InternalsVisibleTo">
+      <_Parameter1>FreeEnc.Tests</_Parameter1>
+    </AssemblyAttribute>
+  </ItemGroup>
+
+<ItemGroup>
+  <PackageReference Include="System.IO.Abstractions" Version="12.1.9" />
+</ItemGroup>
+
+</Project>
